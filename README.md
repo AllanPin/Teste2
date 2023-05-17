@@ -3,3 +3,5 @@
 ## repositório
 
 ### mudando o repositório
+
+Comando git push
